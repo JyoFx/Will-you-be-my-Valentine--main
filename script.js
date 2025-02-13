@@ -85,8 +85,7 @@
 
 
 function handleYesClick() {
-    alert("Yay! You made my day! 💖");
-    // You can add more fun animations or redirect to another page here
+    window.location.href = "yes.html"; // Redirect to the "Yes" page
 }
 
 function moveNoButton() {
