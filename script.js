@@ -85,7 +85,7 @@
 
 
 function handleYesClick() {
-    window.location.href = "yes.html"; // Redirect to the "Yes" page
+    window.location.href = "yes_page.html"; // Redirect to the "Yes" page
 }
 
 function moveNoButton() {
